@@ -1,0 +1,97 @@
+header{
+    background-color: rgb(117, 117, 103);
+    text-align: center;
+    color: black;
+    padding: 5px;
+    font-family: 'Bebas Neue', cursive; width: auto;
+    font-size: xx-large;
+    }
+
+  
+    .menu{
+    list-style: none;
+    padding: 0;
+    background-color: rgb(117, 117, 103);
+    width: 90%;
+    max-width: 100%;
+    margin: auto;
+    font-family: 'Bebas Neue', cursive; width: auto;
+    font-size: xx-large;
+    }
+    .menu li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    display: block;
+    }
+    .menu li{
+    display: inline-block;
+    text-align: center;
+    }
+   .menu li a:hover{
+    background-color: brown;
+    }
+ 
+    img{
+    text-align: center;
+    border: 0in;
+    width: 500px;
+    max-width: 100%;
+    }
+
+    h2{
+    text-align: center;
+    background-color: rgb(117, 117, 103);
+    padding: 5px;
+    font-family: 'Bebas Neue', cursive; max-width: 100%;;
+    font-family: 'Racing Sans One',
+    }
+
+    h3{
+    text-align: center;
+    background-color: rgb(117, 117, 103);
+    padding: 5px
+    font-family 'Bebas Neue', cursive; max-width: 100%;
+    font-family: 'League Gothic', sans-serif;
+    }
+
+
+    section{
+    width: 33%;
+    float: left;
+     
+    }
+
+ 
+    .conteiner{
+    max-width: 100%;
+    text-align: center;
+    }
+
+
+    button{
+    background-color: rgb(117, 117, 103);
+    text-align: center;
+    color: black;
+    padding: 5px;
+    font-family: Impact; width: auto;
+    width: 33%;
+    float: right;
+       
+    }
+
+  
+
+    footer{
+    width: 1500x;
+    text-align: center;
+    background-color: rgb(117, 117, 103);
+    color: rgb(0, 0, 0);
+    padding: 1px;
+    clear: both;
+    
+    }
+
+
+
+    
